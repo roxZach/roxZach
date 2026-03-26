@@ -9,6 +9,8 @@
 ---
 
 ## 👾 About Me
+<img align="right" src="./goku-gif.gif" width="200" style="margin-left: 20px; margin-bottom: 10px;" />
+
 ```txt
 > Initializing roxZach...
 > Location              : Bangladesh 
