@@ -76,3 +76,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff41&height=120&section=footer"/>
 
 </div>
+
+## 🟡 Pac-Man Eating My Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roxZach/roxZach/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roxZach/roxZach/output/pacman.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/roxZach/roxZach/output/pacman.svg" />
+</picture>
+</div>
