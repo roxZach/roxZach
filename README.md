@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff41&height=220&section=header&text=roxZach&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:66CCFF&height=220&section=header&text=roxZach&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Always+Learning...)](https://git.io/typing-svg)
 
@@ -50,7 +50,7 @@
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxZach&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxZach&bg_color=0d1117&color=66CCFF&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -63,7 +63,7 @@
 
 ---
 
-## Eating My Contributions
+<!--## Eating My Contributions
 
 <div align="center">
 <picture>
@@ -73,12 +73,12 @@
 </picture>
 </div>
 
----
+--- -->
 
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=roxZach&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff41&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66CCFF,100:003399&height=120&section=footer"/>
 
 </div>
