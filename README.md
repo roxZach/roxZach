@@ -36,14 +36,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roxZach&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=roxZach&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" width="48%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roxZach&theme=matrix&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%" />
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxZach&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=0d1117" width="40%" />
-</div>
+</div> -->
 
 ---
 
