@@ -63,18 +63,6 @@
 
 ---
 
-<!--## Eating My Contributions
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roxZach/roxZach/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roxZach/roxZach/output/pacman.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/roxZach/roxZach/output/pacman.svg" />
-</picture>
-</div>
-
---- -->
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=roxZach&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
