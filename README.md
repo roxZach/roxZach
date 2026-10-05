@@ -50,7 +50,7 @@
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roxZach&bg_color=0d1117&color=66CCFF&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://raw.githubusercontent.com/roxZach/roxZach/activity-graph/activity-graph.svg" alt="roxZach's GitHub activity graph" width="95%" />
 </div>
 
 ---
