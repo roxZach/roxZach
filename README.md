@@ -14,7 +14,7 @@
 ```txt
 > Initializing roxZach...
 > Location              : Bangladesh 
-> Currently Grinding    : Competitive Programming
+> Currently Grinding    : Vibe Coding
 > Languages             : C++ / Python / Java / HTML
 > Projects              : GeoGuesser Bangladesh Edition 
 > Status                : Always dreaming... 
