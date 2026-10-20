@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=roxZach&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+![Visitor Count](https://hits.sh/github.com/roxZach.svg?style=flat-square&label=PROFILE%20VIEWS&color=00ff41)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:66CCFF,100:003399&height=120&section=footer"/>
 
